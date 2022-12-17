@@ -1,0 +1,13 @@
+#form.prajapati{
+    text-align: center;
+    margin-top: 10vh;
+ 
+}
+body{
+    background-image: url(image/img.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
