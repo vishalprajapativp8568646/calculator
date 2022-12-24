@@ -21,5 +21,18 @@ div{
    margin: 20px;
    background: -moz-linear-gradient(100deg,green,pink,blue);
 }
+@media screen  and (max-width:600px)
+ {
+   div{
+      background: -moz-linear-gradient(100deg,green,pink,blue);
+   }
+   h1 {
+      text-align: center;
+      font-size: 40px;
+      font-style: inherit;
+      color: aqua;
+   }
+}
+
  
 
