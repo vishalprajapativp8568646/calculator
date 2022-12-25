@@ -1,6 +1,6 @@
 h1 {
  text-align: center;
- font-size: 90px;
+ font-size: 80px;
  font-style: italic;
  color: rgb(20, 228, 193);
  
@@ -12,22 +12,18 @@ form {
   color: rgb(20, 228, 193);
 
    }
-body{
-   background-color: rgb(238, 81, 8);
+ body {
+  background-image: url(image/math.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100vw;
 }
-div{
-   padding: 5px;
-   border: 10px;
-   margin: 20px;
-   background: -moz-linear-gradient(100deg,green,pink,blue);
-}
+
 @media  onscreen  and (max-width:600px)
  {
-   div{
-      padding: 3px;
-      border: 5px solid rgb(231, 9, 76);
-      margin: 10px;
-      background: -moz-linear-gradient(100deg,green,pink,blue);
+    body{
+      background-image: url(image/math.jpg);
    }
    h1 {
       text-align: center;
