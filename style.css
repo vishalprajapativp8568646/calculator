@@ -23,7 +23,7 @@ form {
 @media  onscreen  and (max-width:600px)
  {
     body{
-      background-image: url(image/math.jpg);
+      background-image: url(math.jpg);
    }
    h1 {
       text-align: center;
