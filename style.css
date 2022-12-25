@@ -21,7 +21,7 @@ div{
    margin: 20px;
    background: -moz-linear-gradient(100deg,green,pink,blue);
 }
-@media screen  and (max-width:600px)
+@media  onscreen  and (max-width:600px)
  {
    div{
       padding: 3px;
