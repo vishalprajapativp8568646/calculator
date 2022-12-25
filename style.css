@@ -17,7 +17,7 @@ form {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100vw;
+  background-size: cover;
 }
 
 @media  onscreen  and (max-width:600px)
@@ -27,6 +27,7 @@ form {
       background-attachment: fixed;
       background-position: center;
       background-repeat: no-repeat;
+      background-size: cover;
    }
    h1 {
       text-align: center;
