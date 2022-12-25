@@ -24,6 +24,9 @@ div{
 @media screen  and (max-width:600px)
  {
    div{
+      padding: 3px;
+      border: 5px solid rgb(231, 9, 76);
+      margin: 10px;
       background: -moz-linear-gradient(100deg,green,pink,blue);
    }
    h1 {
